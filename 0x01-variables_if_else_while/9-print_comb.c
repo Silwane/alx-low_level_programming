@@ -5,7 +5,7 @@
  *
  * Retun: Always (Successful)
  */
-main(void)
+int main( )
 {
 	int c;
 

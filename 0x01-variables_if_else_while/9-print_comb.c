@@ -5,11 +5,11 @@
  *
  * Retun: Always (Successful)
  */
-int main(void)
+main(void)
 {
 	int c;
 
-	for (c ='0'; c <= '9'; c++)
+	for (c = '0'; c <= '9'; c++)
 	{
 		putchar(c);
 

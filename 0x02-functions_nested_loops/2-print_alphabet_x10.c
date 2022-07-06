@@ -1,6 +1,6 @@
 #include "main.h"
  /**
-  *Description: print_alphabet_x10(void) prints every letter 10x
+  *Description: 'print_alphabet_x10(void) prints every letter 10x'
   *
   * Return: void
   */
